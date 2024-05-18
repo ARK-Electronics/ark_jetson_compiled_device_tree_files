@@ -65,7 +65,6 @@
 				>;
 			gpio-output-low = <
 				TEGRA234_MAIN_GPIO(Y, 4)
-				TEGRA234_MAIN_GPIO(G, 6)
 				TEGRA234_MAIN_GPIO(H, 0)
 				TEGRA234_MAIN_GPIO(H, 6)
 				TEGRA234_MAIN_GPIO(I, 5)
@@ -76,6 +75,7 @@
 			gpio-output-high = <
 				TEGRA234_MAIN_GPIO(Q, 3)
 				TEGRA234_MAIN_GPIO(A, 0)
+				TEGRA234_MAIN_GPIO(G, 6)
 				>;
 		};
 	};
